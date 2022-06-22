@@ -1,0 +1,50 @@
+.form-container {
+  margin: 0 auto;
+  width: 600px;
+  border: 1px solid #959595;
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.form {
+  padding: 20px;
+}
+.from-tittle {
+  font-size: 35px;
+  color: #192fa8;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.input-group {
+  margin-bottom: 20px;
+}
+.input-group label {
+  display: block;
+  margin: 5px;
+}
+.input-group input {
+  width: 410px;
+  height: 55px;
+  border: 1px solid;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-size: 22px;
+}
+.form-submit {
+  width: 415px;
+  height: 55px;
+  background-color: #000000;
+  border: none;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 700;
+  color: aliceblue;
+  cursor: pointer;
+}
+.link {
+  text-decoration: none;
+  color: #998f00;
+}
